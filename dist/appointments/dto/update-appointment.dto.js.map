@@ -1,0 +1,1 @@
+{"version":3,"file":"update-appointment.dto.js","sourceRoot":"","sources":["../../../src/appointments/dto/update-appointment.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAA8C;AAC9C,uEAAmE;AAEnE,MAAa,oBAAoB;CAOhC;AAPD,oDAOC;AADC;IALC,IAAA,qBAAW,EAAC;QACX,OAAO,EAAE,sCAAiB,CAAC,SAAS;QACpC,IAAI,EAAE,sCAAiB;QACvB,WAAW,EAAE,gCAAgC;KAC9C,CAAC;;oDACwB"}
